@@ -1,0 +1,31 @@
+.MainButton{
+    width: 100px; 
+    height: 100px;
+    background: #1b8845;
+    border-radius: 50%;
+    border-color: transparent
+}
+.ButtMenu1{
+    background-color: hsl(0, 62%, 49%);
+    border-color: transparent;
+    border-radius: 10px;
+
+}
+.ButtMenu2{
+    background-color: hsl(32, 77%, 55%);
+    border-color: transparent;
+    border-radius: 10px;
+
+}
+.ButtMenu3{
+    background-color: hsl(194, 73%, 58%);
+    border-color: transparent;
+    border-radius: 10px;
+
+}
+.ButtMenu4{
+    background-color: hsl(98, 62%, 49%);
+    border-color: transparent;
+    border-radius: 10px;
+
+}
